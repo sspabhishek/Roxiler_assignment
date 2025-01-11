@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/roxiler-systems-assignment.git
+   git clone https://github.com/sspabhishek/Roxiler_assignment.git
    cd roxiler-systems-assignment
    ```
 
