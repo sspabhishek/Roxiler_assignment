@@ -1,5 +1,3 @@
-Here's a structured, full Markdown version of the README file:
-
 ```markdown
 # Roxiler Systems Assignment
 
